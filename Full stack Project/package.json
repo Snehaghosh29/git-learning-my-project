@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@chakra-ui/form-control": "^2.2.0",
+    "@chakra-ui/stat": "^2.1.1",
+    "@chakra-ui/toast": "^7.0.2"
+  }
+}
